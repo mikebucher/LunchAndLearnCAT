@@ -1,0 +1,6 @@
+C:\Users\mikeb\source\repos\LunchAndLearnSiMi\LunchAndLearnSiMi\obj\Debug\LunchAndLearnSiMi.csprojAssemblyReference.cache
+C:\Users\mikeb\source\repos\LunchAndLearnSiMi\LunchAndLearnSiMi\bin\Debug\LunchAndLearnSiMi.exe.config
+C:\Users\mikeb\source\repos\LunchAndLearnSiMi\LunchAndLearnSiMi\bin\Debug\LunchAndLearnSiMi.exe
+C:\Users\mikeb\source\repos\LunchAndLearnSiMi\LunchAndLearnSiMi\bin\Debug\LunchAndLearnSiMi.pdb
+C:\Users\mikeb\source\repos\LunchAndLearnSiMi\LunchAndLearnSiMi\obj\Debug\LunchAndLearnSiMi.exe
+C:\Users\mikeb\source\repos\LunchAndLearnSiMi\LunchAndLearnSiMi\obj\Debug\LunchAndLearnSiMi.pdb
